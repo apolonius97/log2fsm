@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Dec  3 22:04:02 2023
+# Process ID: 5216
+# Current directory: /home/antonina/Desktop/hiwi2324
+# Command line: vivado
+# Log file: /home/antonina/Desktop/hiwi2324/vivado.log
+# Journal file: /home/antonina/Desktop/hiwi2324/vivado.jou
+# Running On: antonina-PC, OS: Linux, CPU Frequency: 2085.954 MHz, CPU Physical cores: 16, Host memory: 33561 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/antonina/Desktop/hiwi2324/log2fsm/log2fsm.xpr
+update_compile_order -fileset sources_1
+launch_simulation
